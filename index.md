@@ -2,9 +2,9 @@
 layout: content
 ---
 
-# Clyell
+# Singapore GNU/Linux User Group
 
-[https://gjuniioor.github.io/clyell](https://gjuniioor.github.io/clyell)
+[https://github.com/singaporelug](https://github.com/singaporelug)
 
 ### About
 
