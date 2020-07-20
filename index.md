@@ -33,22 +33,10 @@ title: "SingaporeLUG"
 bye_message: "Thx!"
 baseurl: "/"
 url: "https://singaporelug.org"
-disqus: gjuniioor
 
 # Header settings
 nick: "singaporelug"
-mail:
-    domain: "asia"
-    ext: "com"
 source_code:
     server: "github.com"
     nick: "singaporelug"
-blog:
-    server: "wordpress.com"
-    nick: "singaporelug"
-fingerprint_key: "3E33 16C4 438C B4C7 CE2C 28E2 608E ACD9 3AA9 4396"
-
-# Build settings
-markdown: kramdown
-permalink: /:categories/:title/
 ~~~
