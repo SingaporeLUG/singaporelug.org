@@ -25,31 +25,27 @@ we are the fans of open source in Singapore, totally non-business and non-profit
 
 ### Screenshots
 
-![Screenshot]({{ site.baseurl }}images/screenshot/01.png)
-
-![Screenshot]({{ site.baseurl }}images/screenshot/02.png)
-
 ### Config file example
 
 ~~~ yml
 # Site settings
-title: "gjuniioor"
+title: "SingaporeLUG"
 bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
+baseurl: "/"
+url: "https://singaporelug.org"
 disqus: gjuniioor
 
 # Header settings
-nick: "gjuniioor"
+nick: "singaporelug"
 mail:
-    domain: "protonmail"
-    ext: "ch"
+    domain: "asia"
+    ext: "com"
 source_code:
     server: "github.com"
-    nick: "gjuniioor"
+    nick: "singaporelug"
 blog:
     server: "wordpress.com"
-    nick: "gjuniioor"
+    nick: "singaporelug"
 fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
 # Build settings

@@ -8,7 +8,7 @@ disqus: gjuniioor
 # Header settings
 nick: "SingaporeLUG"
 mail:
-    domain: "usa"
+    domain: "asia"
     ext: ".com"
 source_code:
     server: "github.com"
