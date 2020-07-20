@@ -8,22 +8,20 @@ layout: content
 
 ### About
 
-It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's has some appearance like a linux console. :)
-
-[Bootstrap](http://getbootstrap.com/) was added to turn responsible. Thanks, [@magnunleno](https://github.com/magnunleno).
+we are the fans of open source in Singapore, totally non-business and non-profit, just like it and just for fun, please feel free to join us.
 
 ### Features
 
-- [x] Google analytics
-- [x] Disqus
-- [x] Responsible
-- [x] Highlights for code
+- [x] Meetups
+- [x] Open source projects
+- [x] Developers' share
+- [x] Linux skills
 
-### Characteristics
+### Contact
 
-- [x] Customized (and nice :P) 404 page
-- [x] Simple
-- [x] Friendly to read
+- [x] https://t.me/singaporelug
+- [x] https://singaporelug.org
+- [x] https://github.com/singaporelug
 
 ### Screenshots
 
