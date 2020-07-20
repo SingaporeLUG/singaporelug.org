@@ -46,7 +46,7 @@ source_code:
 blog:
     server: "wordpress.com"
     nick: "singaporelug"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+fingerprint_key: "3E33 16C4 438C B4C7 CE2C 28E2 608E ACD9 3AA9 4396"
 
 # Build settings
 markdown: kramdown
