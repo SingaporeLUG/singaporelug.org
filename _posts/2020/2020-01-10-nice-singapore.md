@@ -1,55 +1,41 @@
 ---
 layout: post
-title:	"Nice Singapore"
+title:	"Nice Singapore, we getting together for open source"
 date:	2020-01-10 03:00:00
 categories:
     - blog
 tags:
     - singapore
-    - sg
+    - open source
 ---
 
-Em um post passado, mostrando como fazer a [instalação do Arch Linux \[0\]][0], utilizei do LVM para gerenciar os discos. Lá falei um pouco mais da teoria por trás dele e tal. Aqui vou me ater mesmo a repassar o passo a passo utilizado para isso.
+Singapore is such a nice place, we people are doing well in trading, in business, in medical, in education, in science developing, in many many fields.
 
-Uma questão a ser dita é que o LVM nos dá a possibilidade de poder redimensionar nossas partições sem desligar o sistema. Acontece que a depender de sua aplicação, mesmo que não dê um shutdown no sistema, as consequências podem ser as mesmas. Explico: para aumentar o tamanho da partição é moleza, dá para fazer sem mais nem menos. Agora para diminuir o volume de uma partição tem de desmontá-la e tudo mais. E isso para alguns pode ser um grande problema.
+## Contact 
 
-Mas enfim, vamos lá...
+- https://groups.google.com/d/forum/singaporelug
+- https://t.me/SingaporeLUG
+- https://www.facebook.com/singaporelug
 
-## Reduzir o tamanho
-
-Digamos que uma partição sua está sendo menos utilizada que outra e que você quer tirar um pouco de espaço dessa determinada partição e colocar na outra. Pois bem, não esqueça de adaptar os endereços aqui para seu cenário, uma breve explicação:
 
 * `/particao`: endereço no qual a partição que você está usando está montada
 * `VolumeGroup`: acredito que o nome já é autoexplicativo
 * `LogicalVolume01` e `LogicalVolume02`: os nomes também já se explicam, mas a numeração se refere a que o 01 é o volume lógico que irá diminuir de tamanho, enquanto o 02 o que irá aumentar
 * `XXG`: nova quantidade de gigas da partição que teve espaço diminuído
 
-Agora de fato redimensione:
+### Who are we?
+
+We are just a couple of fans of open source.
+
+### Links
+
+* https://www.nus.edu.sg
+* https://www.ntu.edu.sg
+* https://www.google.com.sg
+* https://fossaisa.org
+* https://openingsource.org
 
 ~~~
-# resize2fs /dev/VolumeGroup/LogicalVolume01 XXG
-~~~
-
-E então, reduza o tamanho do volume lógico para seu novo espaço:
-
-~~~
-# lvreduce -L XXG /dev/VolumeGroup/LogicalVolume01
-~~~
-
-Agora monte sua partição numa boa:
-
-~~~
-# mount /particao
-~~~
-
-
-E pronto. Agora cheque o tamanho dos discos com `df -h` e seja feliz! :)
-
-Até!
-
-## Links
-
-~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/archlinux-lvm-luks/
+[0]: {{ site.url }}{{ site.baseurl }}blog/nice-singapore/
 ~~~
 

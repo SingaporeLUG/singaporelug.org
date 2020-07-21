@@ -10,7 +10,7 @@ tags:
     - event
 ---
 
-![HKOSCon 2020](https://singaporelug.org/images/posts/2020/hkoscon-2020-jpg)
+![HKOSCon 2020](https://singaporelug.org/images/posts/2020/hkoscon-2020.jpg)
 
 > Welcome to join the HKOSCON2020, if you would like to participate, please talk in [https://t.me/singaporelug](https://t.me/singaporelug)
 
@@ -29,9 +29,8 @@ As the Conference will be held in webinar form, the provision of event live stre
 ~~~
 
 ###  TimeTable
-~~~
-[0]: [https://hkoscon.org/2020/timetable/](https://hkoscon.org/2020/timetable/)
-~~~
+[https://hkoscon.org/2020/timetable/](https://hkoscon.org/2020/timetable/)
+
 
 ###  HKOSCon
-[0]: https://info.hkoscon.org/2020/06/embrace-the-future-with-open-technology-hong-kong-open-source-conference-2020-comes-back-in-june/
+https://info.hkoscon.org/2020/06/embrace-the-future-with-open-technology-hong-kong-open-source-conference-2020-comes-back-in-june/
