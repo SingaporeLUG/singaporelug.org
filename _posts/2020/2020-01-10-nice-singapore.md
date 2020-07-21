@@ -9,19 +9,13 @@ tags:
     - open source
 ---
 
-Singapore is such a nice place, we people are doing well in trading, in business, in medical, in education, in science developing, in many many fields.
+Singapore is such a nice place, we people are doing well in trading, in business, in medical, in education, in science developing, in many many fields. We just come from a couple of different fields, but here for GNU/Linux, for open source.
 
 ## Contact 
 
-- https://groups.google.com/d/forum/singaporelug
-- https://t.me/SingaporeLUG
-- https://www.facebook.com/singaporelug
-
-
-* `/particao`: endereço no qual a partição que você está usando está montada
-* `VolumeGroup`: acredito que o nome já é autoexplicativo
-* `LogicalVolume01` e `LogicalVolume02`: os nomes também já se explicam, mas a numeração se refere a que o 01 é o volume lógico que irá diminuir de tamanho, enquanto o 02 o que irá aumentar
-* `XXG`: nova quantidade de gigas da partição que teve espaço diminuído
+* `Maillist`: [https://groups.google.com/d/forum/singaporelug](https://groups.google.com/d/forum/singaporelug)
+* `Telegram`: [https://t.me/SingaporeLUG](https://t.me/SingaporeLUG)
+* `Facebook`: acredito que o nome já é autoexplicativo
 
 ### Who are we?
 
@@ -35,7 +29,4 @@ We are just a couple of fans of open source.
 * https://fossaisa.org
 * https://openingsource.org
 
-~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/nice-singapore/
-~~~
 
