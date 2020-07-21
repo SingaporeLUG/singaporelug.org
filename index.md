@@ -2,7 +2,7 @@
 layout: content
 ---
 
-##  Singapore GNU/Linux User Group
+###  Singapore GNU/Linux User Group
 
 We are the fans of open source in Singapore, totally non-business and non-profit, just like it and just for fun, please feel free to [join us](https://singaporelug.org/join). [https://github.com/singaporelug](https://github.com/singaporelug)
 
@@ -23,7 +23,7 @@ We are the fans of open source in Singapore, totally non-business and non-profit
 
 ~~~ yml
 # Hacker ethic
-place: "singaporelug"
+place: "singapore"
 source:
     server: "github.com"
     nick: "singaporelug"
