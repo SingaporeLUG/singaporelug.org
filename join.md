@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: content
 title: "*Join us"
 permalink: /join/
 ---
+Singapore LUG recommends to use mail-list as the basic communication tool. But you can still join talk as below list
 
 # MailList
 
