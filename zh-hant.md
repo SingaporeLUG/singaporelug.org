@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: page
 ---
 
 ##  新加坡  GNU/Linux 用戶組

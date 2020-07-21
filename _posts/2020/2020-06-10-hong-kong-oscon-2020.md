@@ -10,9 +10,9 @@ tags:
     - event
 ---
 
-![Screenshot]({{ site.baseurl }}images/posts/2020/hkoscon-2020-jpg)
+![HKOSCon 2020](https://singaporelug.org/images/posts/2020/hkoscon-2020-jpg)
 
-> Welcome to join the HKOSCON2020, if you would like to participate, please talk in https://t.me/singaporelug
+> Welcome to join the HKOSCON2020, if you would like to participate, please talk in [https://t.me/singaporelug](https://t.me/singaporelug)
 
 Hong Kong Open Source Conference (the Conference), the conference event focusing on introducing and the encouragement of open source culture, will kick-off the 8th annual Conference event on Jun 12 in Cyberport, Hong Kong.
 
@@ -24,29 +24,14 @@ Under the annual motto “Stay Safe and Carry On”, the Conference will be held
 
 Precautionary measures such as body temperature check, equipment cleansing, social distancing, and the provision of sterilizer will be adopted to maintain a safe and healthy event space.
 
+~~~
 As the Conference will be held in webinar form, the provision of event live streaming and chatroom would enable interested parties to participate in the Conference and interact with the audiences and speakers.
-
-~~~
-bind c new-window -c '#{pane_current_path}'
-bind '"' split-window -c '#{pane_current_path}'
 ~~~
 
+###  TimeTable
 ~~~
-setopt promptsubst
-PROMPT=$'%B${(r:$COLUMNS::¨:)}$(git_prompt_info)%{$fg[white]%}>> %b%{$reset_color%}'
-RPROMPT='%B%*%b'
-
+[0]: [https://hkoscon.org/2020/timetable/](https://hkoscon.org/2020/timetable/)
 ~~~
 
-Bom, tomara que começar o ano postando algo assim faça vir mais posts e coisas boas por aqui. Até a próxima, pessoal! o/
-
-## Links
-
-~~~
+###  HKOSCon
 [0]: https://info.hkoscon.org/2020/06/embrace-the-future-with-open-technology-hong-kong-open-source-conference-2020-comes-back-in-june/
-[1]: https://hkoscon.org/2020/timetable/
-~~~
-
-[0]: {{ site.baseurl }}images/posts/2017/01.png
-[1]: http://ohmyz.sh/
-[marino]: https://github.com/marinofull

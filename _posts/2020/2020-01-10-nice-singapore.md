@@ -1,12 +1,12 @@
 ---
 layout: post
-title:	"Redimensionar partições LVM"
-date:	2017-04-11 03:00:00
+title:	"Nice Singapore"
+date:	2020-01-10 03:00:00
 categories:
     - blog
 tags:
-    - linux
-    - lvm
+    - singapore
+    - sg
 ---
 
 Em um post passado, mostrando como fazer a [instalação do Arch Linux \[0\]][0], utilizei do LVM para gerenciar os discos. Lá falei um pouco mais da teoria por trás dele e tal. Aqui vou me ater mesmo a repassar o passo a passo utilizado para isso.
@@ -23,18 +23,6 @@ Digamos que uma partição sua está sendo menos utilizada que outra e que você
 * `VolumeGroup`: acredito que o nome já é autoexplicativo
 * `LogicalVolume01` e `LogicalVolume02`: os nomes também já se explicam, mas a numeração se refere a que o 01 é o volume lógico que irá diminuir de tamanho, enquanto o 02 o que irá aumentar
 * `XXG`: nova quantidade de gigas da partição que teve espaço diminuído
-
-Primeiro, desmonte a partição:
-
-~~~
-# umount /particao
-~~~
-
-Então, repare o sistema de arquivos:
-
-~~~
-# fsck -f /dev/VolumeGroup/LogicalVolume01
-~~~
 
 Agora de fato redimensione:
 
@@ -54,14 +42,6 @@ Agora monte sua partição numa boa:
 # mount /particao
 ~~~
 
-## Aumentar tamanho
-
-Depois que passei por alguns apertos passei a deixar alguns gigas "sobrando" quando ia pensar no esquemas de partições, justamente por essa facilidade da adição em relação à redução. Pois bem, tendo em vista que já se tem o espaço sobrando, como o procedimento acima mostra como fazer, basta seguir:
-
-~~~
-# lvextend -L +10G /dev/mapper/main-root
-# resize2fs /dev/mapper/main-root
-~~~
 
 E pronto. Agora cheque o tamanho dos discos com `df -h` e seja feliz! :)
 
@@ -73,4 +53,3 @@ Até!
 [0]: {{ site.url }}{{ site.baseurl }}blog/archlinux-lvm-luks/
 ~~~
 
-[0]: {{ site.baseurl }}blog/archlinux-lvm-luks/

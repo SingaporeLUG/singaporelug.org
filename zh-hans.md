@@ -23,7 +23,7 @@ layout: page
 
 ~~~ yml
 # 黑客伦理
-place: "singaporelug"
+place: "singapore"
 source:
     server: "github.com"
     nick: "singaporelug"

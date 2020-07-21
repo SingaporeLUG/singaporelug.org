@@ -15,9 +15,9 @@ We are the fans of open source in Singapore, totally non-business and non-profit
 
 ### Contact
 
-- [x] https://t.me/singaporelug
-- [x] https://facebook.com/singaporelug
-- [x] https://github.com/singaporelug
+- [x] [https://t.me/singaporelug](https://t.me/singaporelug)
+- [x] [https://facebook.com/singaporelug](https://facebook.com/singaporelug)
+- [x] [https://github.com/singaporelug](https://github.com/singaporelug)
 
 ### Free Software, Free Society
 
