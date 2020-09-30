@@ -8,10 +8,10 @@ We are the fans of open source in Singapore, totally non-business and non-profit
 
 ### Features
 
-- [x] Meetups
 - [x] Open source projects
+- [x] Meetups & Salons
 - [x] Developers' share
-- [x] Linux skills
+- [x] Online community
 
 ### Contact
 
