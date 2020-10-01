@@ -3,7 +3,7 @@ layout: content
 title: "*Join us"
 permalink: /join/
 ---
-Singapore LUG recommends to use mail-list as the basic communication tool. But you can still join talk as below list
+Welcome to join our online community, we talk and share here. You can choose the tool you prefered. Singapore LUG recommends to use mail-list as the basic communication tool, but you can still join talk as below list.
 
 # MailList
 
