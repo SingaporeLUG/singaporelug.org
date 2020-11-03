@@ -1,13 +1,14 @@
 ---
 layout: post
-title:	"PHPConf.Asia 2018 will be hosted in Singapore."
-date:	2018-05-10 03:00:00
+title:	"PHPConf.Asia 2018 will be hosted in Singapore"
+date:	2018-04-10 03:00:00
 categories:
     - blog
 tags:
     - Singapore
     - PHP
     - Conference
+    - phpconf
     - event
 ---
 PHPConf.Asia 2018 will be hosted in 26-29 September at NUSS Kent Ridge Guild House in Singapore. Main Conference will be on 27-28 September, and workshop will be on 26 & 29 September. PHPConf.Asia is also known as PHP Conference Asia.
