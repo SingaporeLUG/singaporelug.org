@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"Nice Singapore, we getting together for open source"
-date:	2020-01-10 03:00:00
+date:	2018-01-10 03:00:00
 categories:
     - blog
 tags:
