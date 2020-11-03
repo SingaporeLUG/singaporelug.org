@@ -5,7 +5,7 @@ date:	2020-06-10 12:00:00
 categories:
     - blog
 tags:
-    - hongkong
+    - Hong Kong
     - hkoscon
     - event
 ---
