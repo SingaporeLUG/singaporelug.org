@@ -1,7 +1,7 @@
 # Site settings
 title: "SingaporeLUG"
 bye_message: "Copyleft 2020, Singapore."
-baseurl: "/"
+baseurl: ""
 url: "https://singaporelug.org"
 
 # Header settings
