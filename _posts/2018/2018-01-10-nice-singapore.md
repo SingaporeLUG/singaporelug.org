@@ -15,7 +15,7 @@ Singapore is such a nice place, we people are doing well in trading, in business
 
 * `Maillist`: [https://groups.google.com/d/forum/singaporelug](https://groups.google.com/d/forum/singaporelug)
 * `Telegram`: [https://t.me/SingaporeLUG](https://t.me/SingaporeLUG)
-* `Facebook`: acredito que o nome já é autoexplicativo
+* `Facebook`: [https://fb.com/SingaporeLUG](https://fb.com/SingaporeLUG)
 
 ### Who are we?
 
@@ -28,5 +28,6 @@ We are just a couple of fans of open source.
 * https://www.google.com.sg
 * https://fossaisa.org
 * https://openingsource.org
+* https://slat.org
 
 
