@@ -1,14 +1,14 @@
 # Site settings
 title: "SingaporeLUG"
-bye_message: "Copyleft 2020, Singapore."
+bye_message: "Copyleft 2022, Singapore."
 baseurl: ""
 url: "https://singaporelug.org"
 
 # Header settings
 nick: "SingaporeLUG"
 mail:
-    domain: "asia"
-    ext: ".com"
+    domain: "id"
+    ext: ".sg"
 source_code:
     server: "github.com"
     nick: "singaporelug"
