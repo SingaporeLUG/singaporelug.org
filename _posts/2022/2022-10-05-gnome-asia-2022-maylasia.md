@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"GNOME.Asia Summit 2022 will be held in Kuala Lumpur, Malaysia on December and now open for registration"
-date:	2022-10-06 12:00:00
+date:	2022-10-05 12:00:00
 categories:
     - blog
 tags:
